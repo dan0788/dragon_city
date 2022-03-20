@@ -1,0 +1,4 @@
+utilizar mapas para los atributos y nombre (linkedhashmap)
+arreglar auto incremento en id de tablas mysql
+para otras conexiones aprender a usar conexion pool
+error: demasiadas conexiones
